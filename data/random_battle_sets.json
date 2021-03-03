@@ -1412,36 +1412,56 @@
     "azumarill": {
         "abilities": [
             [
+                "hugepower",
+                90.0
+            ]
+        ],
+        [
                 "sapsipper",
-                100.0
+                5.0
+            ]
+        ],
+        [
+                "thickfat",
+                5.0
             ]
         ],
         "count": 217,
         "items": [
             [
-                "chestoberry",
-                100.0
+                "leftovers",
+                25.0
+            ]
+        ],
+          [
+                "sitrusberry",
+                50.0
+            ]
+        ],
+          [
+                "lifeorb",
+                25.0
             ]
         ],
         "moves": [
             [
-                "seismictoss",
-                25.806
+                "superpower",
+                80.5
             ],
             [
-                "whirlpool",
-                100.0
+                "playrough",
+                90.0
             ],
             [
-                "toxic",
-                100.0
+                "liquidation",
+                50.0
             ],
             [
-                "rest",
-                100.0
+                "bellydrum",
+                90.0
             ],
             [
-                "protect",
+                "aquajet",
                 74.194
             ]
         ],
