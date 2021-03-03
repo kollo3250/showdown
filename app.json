@@ -26,6 +26,11 @@
       "value": "gen7randombattle",
       "required": true
     },
+    "TEAM_NAME": {
+      "description": "Name of Team",
+      "value": "ou_team.txt",
+      "required": false
+    },
     "RUN_COUNT": {
       "description": "The amount of games this bot will play before quitting",
       "value": "1",
