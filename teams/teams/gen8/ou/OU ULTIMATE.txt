@@ -1,0 +1,56 @@
+Ferrothorn @ Rocky Helmet  
+Ability: Iron Barbs  
+EVs: 4 HP / 252 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Swords Dance  
+- Gyro Ball  
+- Knock Off  
+
+Kyurem @ Metronome  
+Ability: Pressure  
+EVs: 56 HP / 200 SpA / 252 Spe  
+Hasty Nature  
+- Freeze-Dry  
+- Icicle Spear  
+- Substitute  
+- Roost  
+
+Hydreigon @ Leftovers  
+Ability: Levitate  
+EVs: 164 HP / 92 SpA / 252 Spe  
+Timid Nature  
+- Defog  
+- Dark Pulse  
+- Earth Power  
+- Roost  
+
+Nidoking @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Earth Power  
+- Flamethrower  
+- Ice Beam  
+
+Tornadus-Therian @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Nasty Plot  
+- Hurricane  
+- Heat Wave  
+- U-turn  
+
+Urshifu-Rapid-Strike @ Choice Band  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- U-turn  
+
